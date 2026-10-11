@@ -1,6 +1,6 @@
 # Álvaro Lozano-Robledo
 
-Professor of Mathematics at the University of Connecticut. I work in number theory and arithmetic geometry: elliptic curves, their torsion, and their Galois representations. I also make free mathematics for everyone as **MathAndCobb**.
+Professor of Mathematics at the University of Connecticut. I work in number theory, in arithmetic geometry. I am interested in elliptic curves and abelian varieties, their Mordell–Weil groups, and their Galois representations. I also make free mathematics for everyone as **MathAndCobb**.
 
 ### 🌐 **[alozanoroble.github.io](https://alozanoroble.github.io/)** — my website
 
